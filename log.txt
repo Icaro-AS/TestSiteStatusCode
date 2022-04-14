@@ -1,0 +1,36 @@
+14/04/2022 434:34:39https://www.alura.com.br - online: true
+14/04/2022 434:34:43https://random-status-code.herokuapp.com - online: false
+14/04/2022 434:34:44https://www.caelum.com.br - online: true
+14/04/2022 434:34:44https://www.casadocodigo.com.br - online: true
+14/04/2022 434:34:50https://www.alura.com.br - online: true
+14/04/2022 434:34:50https://random-status-code.herokuapp.com - online: false
+14/04/2022 434:34:50https://www.caelum.com.br - online: true
+14/04/2022 434:34:51https://www.casadocodigo.com.br - online: true
+14/04/2022 434:34:56https://www.alura.com.br - online: true
+14/04/2022 434:34:57https://random-status-code.herokuapp.com - online: false
+14/04/2022 434:34:57https://www.caelum.com.br - online: true
+14/04/2022 434:34:57https://www.casadocodigo.com.br - online: true
+14/04/2022 435:35:48https://www.alura.com.br - online: true
+14/04/2022 435:35:49https://random-status-code.herokuapp.com - online: true
+14/04/2022 435:35:49https://www.caelum.com.br - online: true
+14/04/2022 435:35:49https://www.casadocodigo.com.br - online: true
+14/04/2022 435:35:55https://www.alura.com.br - online: true
+14/04/2022 435:35:55https://random-status-code.herokuapp.com - online: false
+14/04/2022 435:35:55https://www.caelum.com.br - online: true
+14/04/2022 435:35:56https://www.casadocodigo.com.br - online: true
+14/04/2022 436:36:01https://www.alura.com.br - online: true
+14/04/2022 436:36:02https://random-status-code.herokuapp.com - online: true
+14/04/2022 436:36:02https://www.caelum.com.br - online: true
+14/04/2022 436:36:02https://www.casadocodigo.com.br - online: true
+14/04/2022 436:36:49 https://www.alura.com.br - online: true
+14/04/2022 436:36:49 https://random-status-code.herokuapp.com - online: false
+14/04/2022 436:36:50 https://www.caelum.com.br - online: true
+14/04/2022 436:36:50 https://www.casadocodigo.com.br - online: true
+14/04/2022 436:36:56 https://www.alura.com.br - online: true
+14/04/2022 436:36:56 https://random-status-code.herokuapp.com - online: false
+14/04/2022 436:36:56 https://www.caelum.com.br - online: true
+14/04/2022 436:36:57 https://www.casadocodigo.com.br - online: true
+14/04/2022 437:37:02 https://www.alura.com.br - online: true
+14/04/2022 437:37:03 https://random-status-code.herokuapp.com - online: false
+14/04/2022 437:37:03 https://www.caelum.com.br - online: true
+14/04/2022 437:37:03 https://www.casadocodigo.com.br - online: true

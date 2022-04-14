@@ -1,9 +1,14 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
+	"io"
+	"io/ioutil"
 	"net/http"
 	"os"
+	"strconv"
+	"strings"
 	"time"
 )
 
@@ -23,6 +28,7 @@ func main() {
 			startMonitor()
 		case 2:
 			fmt.Println("Exibindo logs...")
+			printLogs()
 		case 0:
 			fmt.Println("Saindo do programa...")
 			os.Exit(0)
@@ -58,8 +64,7 @@ func readyCmd() int {
 func startMonitor() {
 	fmt.Println("Monitorando...")
 
-	sites := []string{"https://random-status-code.herokuapp.com/",
-		"https://www.alura.com.br", "https://www.caelum.com.br"}
+	sites := readSitesFile()
 
 	for i := 0; i < monitoramentos; i++ {
 		for i, v := range sites {
@@ -76,11 +81,76 @@ func startMonitor() {
 }
 
 func testSites(site string) {
-	resp, _ := http.Get(site)
+	resp, err := http.Get(site)
+
+	if err != nil {
+		fmt.Println("Ocorre um erro", err)
+	}
 
 	if resp.StatusCode == 200 {
 		fmt.Println("Site:", site, "foi carregado com sucesso!")
+		registerLog(site, true)
 	} else {
 		fmt.Println("Site:", site, "está com problemas. Status Code:", resp.StatusCode)
+		registerLog(site, false)
 	}
+}
+
+func readSitesFile() []string {
+
+	var sites []string
+
+	//io.util - lê tudo de uma vez
+	file, err := os.Open("sites.txt")
+
+	if err != nil {
+		fmt.Println("Ocorrreu um erro", err)
+	}
+
+	if err != nil {
+		fmt.Println("Ocorreu um erro", err)
+	}
+
+	read := bufio.NewReader(file)
+
+	for {
+		line, err := read.ReadString('\n')
+		line = strings.TrimSpace(line)
+
+		sites = append(sites, line)
+
+		if err == io.EOF {
+			break
+		}
+	}
+
+	file.Close()
+	return sites
+}
+
+func registerLog(site string, status bool) {
+
+	file, err := os.OpenFile("log.txt", os.O_CREATE|os.O_APPEND|os.O_RDWR, 0666)
+
+	if err != nil {
+		fmt.Println("Ocorreu um erro:", err)
+
+	}
+
+	file.WriteString(time.Now().Format("02/01/2006 14:04:05 ") + site + " - " +
+		" - online: " + strconv.FormatBool(status) + "\n")
+
+	file.Close()
+
+}
+
+func printLogs() {
+	file, err := ioutil.ReadFile("log.txt")
+
+	if err != nil {
+		fmt.Println("Ocorreu um erro:", err)
+	}
+
+	fmt.Println(string(file))
+
 }
