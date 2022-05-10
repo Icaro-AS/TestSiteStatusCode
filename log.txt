@@ -1,36 +1,47 @@
-14/04/2022 434:34:39https://www.alura.com.br - online: true
-14/04/2022 434:34:43https://random-status-code.herokuapp.com - online: false
-14/04/2022 434:34:44https://www.caelum.com.br - online: true
-14/04/2022 434:34:44https://www.casadocodigo.com.br - online: true
-14/04/2022 434:34:50https://www.alura.com.br - online: true
-14/04/2022 434:34:50https://random-status-code.herokuapp.com - online: false
-14/04/2022 434:34:50https://www.caelum.com.br - online: true
-14/04/2022 434:34:51https://www.casadocodigo.com.br - online: true
-14/04/2022 434:34:56https://www.alura.com.br - online: true
-14/04/2022 434:34:57https://random-status-code.herokuapp.com - online: false
-14/04/2022 434:34:57https://www.caelum.com.br - online: true
-14/04/2022 434:34:57https://www.casadocodigo.com.br - online: true
-14/04/2022 435:35:48https://www.alura.com.br - online: true
-14/04/2022 435:35:49https://random-status-code.herokuapp.com - online: true
-14/04/2022 435:35:49https://www.caelum.com.br - online: true
-14/04/2022 435:35:49https://www.casadocodigo.com.br - online: true
-14/04/2022 435:35:55https://www.alura.com.br - online: true
-14/04/2022 435:35:55https://random-status-code.herokuapp.com - online: false
-14/04/2022 435:35:55https://www.caelum.com.br - online: true
-14/04/2022 435:35:56https://www.casadocodigo.com.br - online: true
-14/04/2022 436:36:01https://www.alura.com.br - online: true
-14/04/2022 436:36:02https://random-status-code.herokuapp.com - online: true
-14/04/2022 436:36:02https://www.caelum.com.br - online: true
-14/04/2022 436:36:02https://www.casadocodigo.com.br - online: true
-14/04/2022 436:36:49 https://www.alura.com.br - online: true
-14/04/2022 436:36:49 https://random-status-code.herokuapp.com - online: false
-14/04/2022 436:36:50 https://www.caelum.com.br - online: true
-14/04/2022 436:36:50 https://www.casadocodigo.com.br - online: true
-14/04/2022 436:36:56 https://www.alura.com.br - online: true
-14/04/2022 436:36:56 https://random-status-code.herokuapp.com - online: false
-14/04/2022 436:36:56 https://www.caelum.com.br - online: true
-14/04/2022 436:36:57 https://www.casadocodigo.com.br - online: true
-14/04/2022 437:37:02 https://www.alura.com.br - online: true
-14/04/2022 437:37:03 https://random-status-code.herokuapp.com - online: false
-14/04/2022 437:37:03 https://www.caelum.com.br - online: true
-14/04/2022 437:37:03 https://www.casadocodigo.com.br - online: true
+10/05/2022 535:35:20 http://www.youtube.com -  - online: true
+10/05/2022 535:35:20 http://www.facebook.com -  - online: true
+10/05/2022 535:35:21 http://www.baidu.com -  - online: true
+10/05/2022 535:35:22 http://www.yahoo.com -  - online: true
+10/05/2022 535:35:22 http://www.amazon.com -  - online: true
+10/05/2022 535:35:23 http://www.wikipedia.org -  - online: true
+10/05/2022 535:35:23 http://www.qq.com -  - online: true
+10/05/2022 535:35:24 http://www.google.co.in -  - online: true
+10/05/2022 535:35:25 http://www.twitter.com -  - online: true
+10/05/2022 535:35:25 http://www.live.com -  - online: true
+10/05/2022 535:35:30 http://www.taobao.com -  - online: true
+10/05/2022 535:35:30 http://www.bing.com -  - online: true
+10/05/2022 535:35:30 http://www.instagram.com -  - online: true
+10/05/2022 535:35:37 http://www.weibo.com -  - online: true
+10/05/2022 535:35:38 http://www.sina.com.cn -  - online: true
+10/05/2022 535:35:39 http://www.linkedin.com -  - online: true
+10/05/2022 535:35:42 http://www.yahoo.co.jp -  - online: true
+10/05/2022 535:35:42 http://www.msn.com -  - online: true
+10/05/2022 535:35:46 http://www.vk.com -  - online: true
+10/05/2022 535:35:46 http://www.google.de -  - online: true
+10/05/2022 535:35:48 http://www.yandex.ru -  - online: true
+10/05/2022 535:35:50 http://www.hao123.com -  - online: true
+10/05/2022 535:35:50 http://www.google.co.uk -  - online: true
+10/05/2022 535:35:51 http://www.reddit.com -  - online: false
+10/05/2022 535:35:51 http://www.ebay.com -  - online: true
+10/05/2022 535:35:51 http://www.google.fr -  - online: true
+10/05/2022 535:35:52 http://www.t.co -  - online: false
+10/05/2022 535:35:54 http://www.tmall.com -  - online: true
+10/05/2022 535:35:55 http://www.google.com.br -  - online: true
+10/05/2022 535:35:58 http://www.360.cn -  - online: true
+10/05/2022 535:35:59 http://www.sohu.com -  - online: true
+10/05/2022 536:36:00 http://www.amazon.co.jp -  - online: true
+10/05/2022 536:36:00 http://www.pinterest.com -  - online: true
+10/05/2022 536:36:01 http://www.netflix.com -  - online: true
+10/05/2022 536:36:02 http://www.google.it -  - online: true
+10/05/2022 536:36:02 http://www.google.ru -  - online: true
+10/05/2022 536:36:02 http://www.microsoft.com -  - online: true
+10/05/2022 536:36:02 http://www.google.es -  - online: true
+10/05/2022 536:36:03 http://www.wordpress.com -  - online: true
+10/05/2022 536:36:05 http://www.gmw.cn -  - online: true
+10/05/2022 536:36:06 http://www.tumblr.com -  - online: true
+10/05/2022 536:36:06 http://www.paypal.com -  - online: true
+10/05/2022 536:36:08 http://www.blogspot.com -  - online: true
+10/05/2022 536:36:10 http://www.imgur.com -  - online: true
+10/05/2022 536:36:10 http://www.stackoverflow.com -  - online: true
+10/05/2022 536:36:11 http://www.aliexpress.com -  - online: true
+10/05/2022 536:36:14 http://www.naver.com -  - online: true
